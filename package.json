@@ -1,0 +1,17 @@
+{
+  "name": "node_kafka",
+  "version": "0.0.0",
+  "description": "POC of node and Kafka",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka"
+  ],
+  "author": "Alan Gawthorpe",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^0.2.10"
+  }
+}
